@@ -1,0 +1,177 @@
+festival_id,name,begin,duration,where,country,visitors,price
+1,SommerZeitFels Festival,2022-07-08,44,outdoor,AT,no data,0.00
+2,Ascona Music Festival,2022-07-08,87,indoor,CH,500,54.75
+3,Open Air Seedorf,2022-07-16,1827,outdoor,DE,700,10.00
+4,GutsBLUES Festival,2022-07-29,34,outdoor,DE,no data,67.23
+5,Summer Breeze,2022-08-17,4,outdoor,DE,45000,169.00
+6,Reload Festival,2022-08-18,3,outdoor,DE,12000,89.00
+7,Kaltenbach Open Air,2022-08-18,3,outdoor,AT,no data,78.75
+8,Obstwiesenfestival,2022-08-18,3,outdoor,DE,15000,0.00
+9,Pukkelpop Festival,2022-08-18,4,outdoor,BE,189000,nan
+10,FM4 Frequency Festival,2022-08-18,3,outdoor,AT,200000,nan
+11,Stella Nomine Festival,2022-08-18,3,outdoor,DE,no data,66.60
+12,Barther Metal Open Air,2022-08-18,3,outdoor,DE,1000,59.99
+13,Open Air Gampel,2022-08-18,4,outdoor,CH,100000,247.00
+14,Spirit Festival,2022-08-18,3,unknown,DE,10000,74.00
+15,Motocultor Festival,2022-08-18,4,outdoor,FR,42000,133.00
+16,Bau Mich Auf Festival,2022-08-18,4,outdoor,DE,1500,95.00
+17,MS Dockville,2022-08-19,3,outdoor,DE,75000,nan
+18,Echelon Open Air & Indoor Festival,2022-08-19,3,unknown,DE,250000,nan
+19,Highfield Festival,2022-08-19,3,outdoor,DE,35000,159.00
+20,Burgbrand Open Air,2022-08-19,3,outdoor,DE,1300,nan
+21,Niemandsland Festival,2022-08-19,1,indoor,DE,2500,15.00
+22,meetMUSIC Open Air,2022-08-19,3,outdoor,DE,300,nan
+23,Karben Open Air,2022-08-19,3,outdoor,DE,1500,45.00
+24,Lowlands Festival,2022-08-19,3,outdoor,NL,90000,255.00
+25,Chiemgau Outdoor Festival,2022-08-19,3,outdoor,DE,12000,nan
+26,Wake Up Festival,2022-08-19,2,outdoor,DE,900,nan
+27,Turock Open Air,2022-08-19,2,outdoor,DE,no data,0.00
+28,Festival FLINTA*SPHERE,2022-08-19,2,outdoor,DE,400,14.00
+29,Wilde Möhre Festival,2022-08-19,4,outdoor,DE,4000,nan
+30,Bautz Festival,2022-08-19,2,outdoor,DE,10000,64.50
+31,Angeliter Open Air,2022-08-19,2,outdoor,DE,2000,50.20
+32,Stemweder Open Air,2022-08-19,2,outdoor,DE,12000,0.00
+33,See more Jazz Festival,2022-08-19,3,outdoor,DE,600,61.00
+34,Buschtanz Festival,2022-08-19,3,outdoor,DE,600,99.00
+35,Rock den Deich Festival,2022-08-20,1,outdoor,DE,3500,0.00
+36,Ackerbrand Festival,2022-08-20,1,outdoor,DE,700,33.00
+37,San Hejmo Festival,2022-08-20,1,outdoor,DE,25000,59.00
+38,Heidebeat Festival,2022-08-20,1,outdoor,DE,no data,nan
+39,Elbriot Festival,2022-08-20,1,outdoor,DE,13000,67.40
+40,Geh ma Ziegenbrink Open Air,2022-08-20,1,outdoor,DE,no data,10.00
+41,Sonus Festival,2022-08-21,5,outdoor,HR,20000,nan
+42,Horn to be Wild Festival,2022-08-22,1,outdoor,DE,900,15.00
+43,Baltic Open Air,2022-08-24,4,outdoor,DE,11000,116.80
+44,Pop-Kultur,2022-08-24,3,indoor,DE,3500,70.00
+45,Neuborn Open Air,2022-08-25,4,outdoor,DE,no data,nan
+46,Festival ohne Grund,2022-08-25,3,outdoor,DE,2500,25.00
+47,Death Feast,2022-08-25,3,outdoor,DE,2000,66.50
+48,Stadtfest Oldenburg,2022-08-25,3,outdoor,DE,350000,0.00
+49,Norden Festival,2022-08-25,18,outdoor,DE,12000,39.00
+50,Wolfszeit Festival,2022-08-25,3,outdoor,DE,no data,109.00
+51,Riedler Open Air,2022-08-25,3,outdoor,DE,1200,34.90
+52,Rock en Seine Festival,2022-08-25,4,outdoor,FR,100000,159.00
+53,Moyn Moyn Festival,2022-08-25,4,outdoor,DE,4000,205.00
+54,Paddy Rock Open Air,2022-08-26,2,outdoor,DE,1500,77.55
+55,Trveheim Festival,2022-08-26,2,indoor,DE,no data,nan
+56,Holter Meeting Festival,2022-08-26,2,outdoor,DE,3000,0.00
+57,Blues In The Garden Festival,2022-08-26,3,outdoor,RO,no data,36.40
+58,Singoldsand Festival,2022-08-26,2,outdoor,DE,10000,nan
+59,Neuborn Open Air,2022-08-26,2,outdoor,DE,no data,59.00
+60,Dalmstock Open Air,2022-08-26,2,outdoor,DE,700,nan
+61,Reading Festival,2022-08-26,3,outdoor,DE,70000,308.00
+62,Leeds Festival,2022-08-26,3,outdoor,DE,70000,308.00
+63,DamsRock,2022-08-26,2,outdoor,DE,no data,nan
+64,Hype Festival,2022-08-26,3,outdoor,DE,15000,139.00
+65,Pure Fucking Metal FestEvil,2022-08-26,3,indoor,DE,150,37.22
+66,Beer Now Open Festival,2022-08-26,3,outdoor,DE,1500,50.00
+67,Jubeljahre Festival,2022-08-26,3,outdoor,DE,1500,95.00
+68,Metalacker Festival,2022-08-26,2,outdoor,DE,no data,nan
+69,Mysteryland,2022-08-26,3,outdoor,NL,110000,169.85
+70,Pixxen Festival,2022-08-26,2,unknown,DE,4000,nan
+71,Forest Jump Festival,2022-08-26,2,outdoor,DE,1500,70.00
+72,Rock im Hinterland,2022-08-26,2,outdoor,DE,1000,39.70
+73,Funhouse Festival,2022-08-26,3,outdoor,DE,15000,123.00
+74,Miner`s Rock Open Air,2022-08-26,3,outdoor,DE,3300,115.50
+75,Rock am Beckenrand Festival,2022-08-26,2,outdoor,DE,2500,66.55
+76,Zytanien Open Air Festival,2022-08-26,3,outdoor,DE,4000,nan
+77,Damage Done Fest,2022-08-27,1,outdoor,DE,5000,59.00
+78,Sonnenbrand Festival,2022-08-27,1,outdoor,DE,500,19.99
+79,Müssen alle mit. Festival,2022-08-27,1,outdoor,DE,2000,53.35
+80,Back to the Woods Festival,2022-08-27,1,outdoor,DE,10000,37.00
+81,PunkOiRama Open Air,2022-09-01,3,outdoor,DE,no data,55.00
+82,Evolution Festival,2022-09-01,4,outdoor,DE,no data,nan
+83,Musikfest Blumenthal,2022-09-01,4,outdoor,DE,2500,10.00
+84,Rupat Festival und Konferenz,2022-09-02,3,outdoor,DE,no data,0.00
+85,Spencerhill Festival,2022-09-02,2,outdoor,DE,1500,79.00
+86,Pell Mell Festival,2022-09-02,2,outdoor,DE,3000,45.50
+87,Bongert Open Air,2022-09-02,2,outdoor,DE,500,35.00
+88,Tarmac Festival,2022-09-02,3,outdoor,DE,1000,140.00
+89,Folklorum - Turisedische Festspiele,2022-09-02,3,outdoor,DE,17000,102.00
+90,Colors of Beat Open Air,2022-09-02,3,outdoor,DE,500,40.00
+91,Merseburger Rocknacht,2022-09-02,3,outdoor,DE,3000,35.04
+92,Castle Beats Festival,2022-09-02,3,outdoor,DE,3000,40.00
+93,Rock Down the Lockdown Festival,2022-09-02,2,outdoor,DE,500,54.00
+94,SubDivo Festival,2022-09-02,2,outdoor,CH,500,40.00
+95,Walsroder Stadtfest,2022-09-02,3,outdoor,DE,50000,0.00
+96,Hokus Pokus FestiWelt,2022-09-02,3,outdoor,DE,no data,49.90
+97,Hidden Fields Open Air,2022-09-02,3,outdoor,DE,no data,85.00
+98,Schmölzer-Blues-Tage,2022-09-02,3,outdoor,DE,350,49.50
+99,Rock am Kanal,2022-09-03,1,outdoor,DE,1000,nan
+100,Strandfieber Festival,2022-09-03,1,outdoor,DE,4500,49.00
+101,Metal Colonia Fest,2022-09-03,1,indoor,DE,450,nan
+102,Happy Brook Festival,2022-09-03,1,outdoor,DE,no data,0.00
+103,Schloß Dargun Open Air Festival,2022-09-03,3,outdoor,DE,3200,0.00
+104,Superbloom Festival,2022-09-03,2,outdoor,DE,40000,159.00
+105,Summer End Openair in Sinabelkirchen,2022-09-03,1,outdoor,AT,300,16.00
+106,Bulk-Festival,2022-09-03,1,outdoor,DE,400,15.00
+107,Raus ausm Keller Festival,2022-09-03,1,outdoor,DE,400,17.50
+108,Teestival,2022-09-03,1,outdoor,DE,700,0.00
+109,Blies Festival,2022-09-03,1,outdoor,DE,3000,24.50
+110,SlifeTekk Open Air,2022-09-03,1,outdoor,DE,2000,12.00
+111,klein & fein Festival,2022-09-03,2,outdoor,AT,500,25.00
+112,Rockade Festiwoll,2022-09-03,1,outdoor,DE,no data,23.00
+113,Waves Festival,2022-09-08,3,unknown,AT,no data,65.00
+114,Travejazz Festival,2022-09-08,4,indoor,DE,2500,0.00
+115,Hawk Fest,2022-09-09,1,indoor,DE,150,12.00
+116,Masters of the Unicorn Open Air,2022-09-09,2,outdoor,DE,400,35.00
+117,Storm Crusher Festival,2022-09-09,2,indoor,DE,no data,57.00
+118,Festival-Mediaval,2022-09-09,3,outdoor,DE,no data,139.00
+119,SinnerRock Open Air,2022-09-09,2,outdoor,DE,2000,60.00
+120,Heroes Festival Freiburg,2022-09-09,2,outdoor,DE,10000,79.00
+121,Metal Embrace Festival,2022-09-09,2,outdoor,DE,no data,37.50
+122,Mittelalterliches Burggraben-Festival Nürnberg,2022-09-09,3,outdoor,DE,no data,0.00
+123,Meh Suff! Metalfestival,2022-09-09,2,outdoor,CH,no data,96.17
+124,Jetzt & Immer Festival,2022-09-09,2,outdoor,DE,2000,60.00
+125,Die andere Seite der Welt Festival,2022-09-09,3,outdoor,DE,650,40.00
+126,Kulturbrücke Magdeburg,2022-09-09,3,outdoor,DE,no data,0.00
+127,Hayner Burgfest,2022-09-09,3,outdoor,DE,14000,16.00
+128,Baroeg Open Air,2022-09-10,1,outdoor,NL,no data,9.99
+129,StoneBreak Festival,2022-09-10,2,outdoor,AT,300,24.00
+130,Stahlnacht Festival,2022-09-10,1,indoor,DE,300,21.50
+131,Metal im Woid Festival,2022-09-15,3,outdoor,DE,no data,nan
+132,WGM Festival,2022-09-15,3,indoor,DE,1200,80.00
+133,Zuparken Festival,2022-09-15,4,outdoor,DE,1000,nan
+134,Country & Trucker Festival Grimmen,2022-09-16,3,unknown,DE,5000,50.00
+135,ROCK the RHY Festival,2022-09-16,2,indoor,CH,no data,0.00
+136,Streetz Open Air ST.O.A.,2022-09-16,2,outdoor,DE,800,55.00
+137,Macken Fest,2022-09-16,3,indoor,SE,no data,222.00
+138,Elfia Arcen,2022-09-17,2,outdoor,NL,4000,nan
+139,Fuck Cancer Festival,2022-09-17,1,indoor,DE,no data,15.00
+140,Volle Kraft Voraus-Festival,2022-09-17,1,indoor,DE,no data,60.00
+141,Cool bleiben! Open Air,2022-09-17,1,outdoor,DE,no data,0.00
+142,Rockfield Festival,2022-09-17,2,outdoor,DE,750,25.00
+143,Swinging Hannover,2022-09-18,1,outdoor,DE,40000,nan
+144,Reeperbahn Festival,2022-09-21,4,outdoor,DE,45000,129.00
+145,Country & Southern Rock Weekend,2022-09-23,3,outdoor,DE,no data,nan
+146,Thorshammer Festival,2022-09-23,2,indoor,DE,no data,40.00
+147,Coastrock Festival,2022-09-23,2,indoor,DE,350,22.50
+148,Gans Anders Festival,2022-09-23,3,outdoor,AT,4000,90.00
+149,Crewsade of Metal Festival,2022-09-24,1,indoor,DE,250,0.00
+150,Lollapalooza Deutschland,2022-09-24,2,outdoor,DE,100000,159.00
+151,Sound of Suburbia Festival,2022-09-24,1,outdoor,DE,no data,44.00
+152,Nuclear Intervention Fest,2022-09-24,1,indoor,GB,no data,8.99
+153,F.E.K. 9 Monsterfestival,2022-09-30,3,indoor,DE,6000,74.00
+154,Euroblast Festival,2022-09-30,3,indoor,DE,2000,99.00
+155,Syndicate Festival,2022-10-01,1,indoor,DE,20000,53.00
+156,Teltower Stadtfest,2022-10-01,3,outdoor,DE,50000,0.00
+157,Vienna Metal Meeting,2022-10-07,2,outdoor,AT,3500,60.00
+158,Metal Attack Fest,2022-10-07,2,indoor,DE,200,nan
+159,Metalnight Outbreak Festival,2022-10-07,3,indoor,AT,no data,54.00
+160,Augsbangers Metal Meeting,2022-10-08,1,indoor,DE,150,18.50
+161,Full Metal Holiday,2022-10-10,8,indoor,ES,1400,"1,499.00"
+162,Herbststurm-Festival,2022-10-14,2,indoor,DE,600,nan
+163,Metaleros,2022-10-15,1,indoor,DE,no data,16.00
+164,Köln Comedy Festival,2022-10-27,10,indoor,DE,71000,nan
+165,Autumn Moon Festival,2022-10-28,3,indoor,DE,no data,nan
+166,HRH Hard Rock Hell Festival,2022-11-03,4,indoor,DE,no data,660.00
+167,Metal Hammer Paradise,2022-11-18,2,indoor,DE,4000,142.75
+168,H.E.A.T. Festival,2022-12-02,3,indoor,DE,no data,nan
+169,Nikolaut Rockfest,2022-12-03,1,indoor,DE,500,36.29
+170,BERGFESTival,2022-12-09,3,outdoor,AT,no data,84.90
+171,Eindhoven Metal Meeting,2022-12-09,2,indoor,NL,no data,93.00
+172,Ruhrpott Metal Meeting,2022-12-09,2,indoor,DE,no data,84.50
+173,Winter Madness Festival,2022-12-09,2,indoor,DE,no data,56.66
+174,Knock Out Festival,2022-12-10,1,indoor,DE,no data,nan
+175,Rave on Snow Festival,2022-12-15,4,outdoor,AT,6000,nan
+176,Blues Festival Basel,2022-12-17,5,indoor,CH,no data,nan
